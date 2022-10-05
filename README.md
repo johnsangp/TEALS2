@@ -20,7 +20,7 @@ b. Issues
 
 
 A few language that we disccuss for programming
-- c/C++
+- C/C++
 - Fortran
 - Python
 - Julia
